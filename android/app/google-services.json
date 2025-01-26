@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "535305991704",
+    "firebase_url": "https://playground-ghana-default-rtdb.firebaseio.com",
+    "project_id": "playground-ghana",
+    "storage_bucket": "playground-ghana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535305991704:android:f901128790c73ad995b56d",
+        "android_client_info": {
+          "package_name": "com.hexagone.playground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuA3z_I1URbYPeDgL1HhdvhRdHN49sUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
